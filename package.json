@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_tdd",
+  "version": "0.1.0",
+  "author": "Paul Alcock <cox_1983@hotmail.com>",
+  "description": "Boilerplate for testing nodejs",
+  "dependencies": {
+  	"grunt": "*",
+    "chai": "*",
+    "mocha": "*",
+    "grunt-mocha-test": "*",
+    "sinon": "*",
+    "sinon-chai": "*"
+  }
+}
